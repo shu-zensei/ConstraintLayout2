@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayout2</string>
+    <string name="button1">ログイン</string>
+    <string name="buton2">BUTTON</string>
+    <string name="name">名前を入力してください</string>
+    <string name="password">パスワードを入力してください</string>
+    <string name="imageDes">imageDes</string>
+    <string name="textview">1.0.0 Beta</string>
+</resources>
